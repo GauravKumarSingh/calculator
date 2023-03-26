@@ -1,0 +1,11 @@
+{
+  "name": "@gksingh/calculator",
+  "version": "1.0.0",
+  "description": "Simple calculation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Singh",
+  "license": "ISC"
+}
